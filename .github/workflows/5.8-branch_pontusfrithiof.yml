@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'pontusfrithiof'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_512BD0856F4941D792EA61CFB7F6C5C1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B483A519FF944B8E92B981C10C5615D9 }}
           package: .
